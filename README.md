@@ -41,7 +41,7 @@ The Starry App aims to ignite curiosity about the universe and inspire users to 
 
 ## Directory Layout and Tree
 
-Starry-App
+### Starry-App
 ├── app.js
 ├── index.html
 ├── package-lock.json
