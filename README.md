@@ -38,6 +38,3 @@ The development environment for the Starry App will include HTML, CSS, and JavaS
 ## Conclusion
 
 The Starry App aims to ignite curiosity about the universe and inspire users to explore the wonders of space. By providing an immersive and educational experience, the app seeks to foster a love for astronomy and science, encouraging users to marvel at the vastness and beauty of our cosmos.
-
-
-
