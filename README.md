@@ -38,3 +38,23 @@ The development environment for the Starry App will include HTML, CSS, and JavaS
 ## Conclusion
 
 The Starry App aims to ignite curiosity about the universe and inspire users to explore the wonders of space. By providing an immersive and educational experience, the app seeks to foster a love for astronomy and science, encouraging users to marvel at the vastness and beauty of our cosmos.
+
+## Directory Layout and Tree
+
+Starry-App
+├── app.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── server.js
+├── src
+│ ├── api.js
+│ ├── app.js
+│ ├── imageIPA.js
+│ ├── nasaAPI.js
+│ ├── search.js
+│ ├── ui.js
+│ ├── userInput.js
+│ └── welcome.js
+└── style.css
